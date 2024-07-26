@@ -1,13 +1,19 @@
 
 ## Contributions
+![image](https://github.com/user-attachments/assets/f3413c8a-4c8f-4af3-a380-404f73ab6ce9)
 
 - **Data Preprocessing:** Includes stationarity tests (ADF test) and differencing the data.
 - **Model Selection:** Determined model order using ACF and PACF plots.
+  ![image](https://github.com/user-attachments/assets/5cc7e352-5d75-4281-ab98-12180d98d271)
+
 - **Model Training and Validation:** Split data, trained ARIMA and SARIMA models, and evaluated performance.
 - **Parameter Tuning:** Performed grid search for optimal ARIMA parameters.
 - **Model Diagnostics:** Analyzed residuals and performed residual diagnostics.
 - **Forecasting and Visualization:** Created forecasts, plotted original and fitted values, and visualized results.
+- ![image](https://github.com/user-attachments/assets/aa15b73e-fc01-4daf-b3ec-70bee33a7137)
+
 - **Advanced Techniques:** Included SARIMA modeling for seasonal data and incorporated exogenous variables.
+![image](https://github.com/user-attachments/assets/a4d2a7ed-d754-43fe-bca5-76eebedef08b)
 
 ## License
 
