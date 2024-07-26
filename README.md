@@ -1,7 +1,7 @@
+- **Given Airline Passengers Data:** is a classic time series dataset used for forecasting and statistical analysis. 
 
-## Contributions
 ![image](https://github.com/user-attachments/assets/f3413c8a-4c8f-4af3-a380-404f73ab6ce9)
-
+## Contributions
 - **Data Preprocessing:** Includes stationarity tests (ADF test) and differencing the data.
 - **Model Selection:** Determined model order using ACF and PACF plots.
   ![image](https://github.com/user-attachments/assets/5cc7e352-5d75-4281-ab98-12180d98d271)
